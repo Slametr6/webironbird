@@ -1,22 +1,20 @@
 # webironbird
-**Website PT. Iron Bird**
+**Website of PT. Iron Bird**
 
-PT. Iron Bird merupakan perusahaan yang bergerak dibidang logistics. Aplikasi ini merupakan sebuah website yang digunakan diperusahaan tersebut dalam melakukan promosi ke pelanggan nya. Pada saat pembuatan website tersebut sudah di konfigurasikan dan dapat diakses ke alamat http://www.ironbird.id. 
-Berikut merupakan tampilan website tersebut.
+PT. Iron Bird is a company engaged in logistics. This application is a website were used by the company in conducting promotions to its customers. At the time of making the website, it has been configured and can be accessed at the address http://www.ironbird.id. Here is a view of the website.
 
-# Tampilan Website
+# Website View
 ![image](https://user-images.githubusercontent.com/53107522/128521784-45c2e1ed-95d9-485e-94b9-561bc833192c.png)
 
-# Tampilan login
+# login View
 ![image](https://user-images.githubusercontent.com/53107522/128521848-b6cdabed-fbe6-4098-8072-ee8b9a2d140b.png)
 
-Tampilan Dashboard
+# Dashboard View
 ![image](https://user-images.githubusercontent.com/53107522/128521931-fea3423d-8ebf-4a03-ba51-1649c4d9c69a.png)
 
-Aplikasi ini masih jauh dari kesempurnaan, maka dari itu dipersilahkan untuk di kembangkan dan dipergunakan sebagaimana mestinya. Terimakasih banyak.
+This application is still far from perfect, therefore it is welcome to be developed and used properly. Thanks very much.
 
-Saran dan masukan yang membangun diharapkan untuk perbaikan kedepannya :
-
+Suggestions and constructive input are expected for future improvement:
 * Mail : slametr6@gmail.com,
 * IG : @slametr6,
 * Linkedin : https://www.linkedin.com/in/slamet-riyadi-7b13b5162/
